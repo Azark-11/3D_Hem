@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "shop": "Shop",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Cart"
+  },
+  "home": {
+    "hero_tagline": "Uniquely designed 3D prints — made in Sweden",
+    "hero_subtitle": "Figures, lamps and functional objects, printed to order in PLA and PETG.",
+    "hero_cta": "Explore the shop",
+    "featured_heading": "Featured products",
+    "about_heading": "About us",
+    "about_text": "We are a small, passionate 3D printing company based in Sweden. Every product is printed to order with high precision and love for detail."
+  },
+  "shop": {
+    "title": "Shop",
+    "sort_label": "Sort",
+    "sort_newest": "Newest",
+    "sort_cheapest": "Cheapest",
+    "sort_expensive": "Most expensive",
+    "filter_label": "Filter",
+    "all_categories": "All categories",
+    "empty": "No products match your selection.",
+    "page_label": "Page",
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "categories": {
+    "figurer": "Figures",
+    "lampor": "Lamps",
+    "funktionellt": "Functional",
+    "ovrigt": "Other"
+  },
+  "product": {
+    "add_to_cart": "Add to cart",
+    "out_of_stock": "Out of stock",
+    "quantity": "Quantity",
+    "material": "Material",
+    "dimensions": "Dimensions",
+    "weight": "Weight",
+    "weight_unit": "g",
+    "related": "Related products",
+    "price_includes_vat": "VAT 25% included",
+    "category": "Category",
+    "in_stock": "In stock",
+    "share": "Share"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty.",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping calculated at checkout",
+    "vat": "VAT 25% included",
+    "checkout": "Checkout",
+    "remove": "Remove",
+    "items": "items",
+    "item": "item",
+    "loading": "Creating payment…",
+    "error": "Something went wrong. Please try again."
+  },
+  "checkout": {
+    "processing": "Processing payment…"
+  },
+  "success": {
+    "heading": "Thank you for your order!",
+    "subheading": "Your payment is confirmed.",
+    "order_summary": "Order summary",
+    "order_number": "Order number",
+    "email_sent": "A confirmation will be sent to {email}.",
+    "continue": "Continue shopping",
+    "items": "Items",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "total": "Total",
+    "payment_method": "Payment method"
+  },
+  "about": {
+    "title": "About us",
+    "heading": "About 3D Hem",
+    "text": "We are a small 3D printing company with a big heart. Every product is made to order in Sweden with high precision and carefully selected materials like PLA, PETG and Resin."
+  },
+  "contact": {
+    "title": "Contact",
+    "heading": "Contact us",
+    "email_label": "Email",
+    "message_label": "Message",
+    "send": "Send",
+    "success": "Thank you! We will get back to you within 1–2 business days.",
+    "placeholder_email": "your@email.com",
+    "placeholder_message": "Write your message here…"
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "about": "About",
+    "contact": "Contact",
+    "copyright": "© {year} 3D Hem. All rights reserved.",
+    "vat_info": "VAT 25% included in all prices."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "heading": "Privacy Policy"
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "heading": "Terms & Conditions"
+  },
+  "cookie": {
+    "message": "We use cookies for your cart and login to work. No tracking cookies are used without your consent.",
+    "accept": "Accept",
+    "reject": "Reject"
+  },
+  "errors": {
+    "not_found": "Page not found",
+    "not_found_desc": "This page does not exist or has been removed.",
+    "server_error": "Server error",
+    "server_error_desc": "Something went wrong on our end. Please try again.",
+    "back_to_shop": "Back to shop",
+    "out_of_stock": "Out of stock",
+    "invalid_quantity": "Invalid quantity",
+    "checkout_failed": "Could not create payment. Please try again."
+  },
+  "admin": {
+    "login": "Log in"
+  },
+  "meta": {
+    "site_name": "3D Hem",
+    "default_title": "3D Hem – Unique 3D prints from Sweden",
+    "default_description": "Handcrafted 3D prints in PLA, PETG and Resin. Figures, lamps and functional objects printed to order in Sweden."
+  }
+}

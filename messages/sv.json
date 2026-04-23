@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "shop": "Butik",
+    "about": "Om oss",
+    "contact": "Kontakt",
+    "cart": "Kundvagn"
+  },
+  "home": {
+    "hero_tagline": "Unikt designade 3D-utskrifter — skapade i Sverige",
+    "hero_subtitle": "Figurer, lampor och funktionella föremål, tillverkade på beställning i PLA och PETG.",
+    "hero_cta": "Utforska butiken",
+    "featured_heading": "Utvalda produkter",
+    "about_heading": "Om oss",
+    "about_text": "Vi är ett litet, passionerat 3D-printföretag baserat i Sverige. Varje produkt skrivs ut på beställning med hög noggrannhet och kärlek till detaljer. Oavsett om det är en present, ett konstföremål eller ett praktiskt tillbehör – vi levererar kvalitet du kan ta på."
+  },
+  "shop": {
+    "title": "Butik",
+    "sort_label": "Sortera",
+    "sort_newest": "Nyast",
+    "sort_cheapest": "Billigast",
+    "sort_expensive": "Dyrast",
+    "filter_label": "Filtrera",
+    "all_categories": "Alla kategorier",
+    "empty": "Inga produkter matchar ditt urval.",
+    "page_label": "Sida",
+    "prev": "Föregående",
+    "next": "Nästa"
+  },
+  "categories": {
+    "figurer": "Figurer",
+    "lampor": "Lampor",
+    "funktionellt": "Funktionellt",
+    "ovrigt": "Övrigt"
+  },
+  "product": {
+    "add_to_cart": "Lägg i varukorg",
+    "out_of_stock": "Slut i lager",
+    "quantity": "Antal",
+    "material": "Material",
+    "dimensions": "Mått",
+    "weight": "Vikt",
+    "weight_unit": "g",
+    "related": "Relaterade produkter",
+    "price_includes_vat": "Moms 25 % ingår",
+    "category": "Kategori",
+    "in_stock": "I lager",
+    "share": "Dela"
+  },
+  "cart": {
+    "title": "Kundvagn",
+    "empty": "Din kundvagn är tom.",
+    "subtotal": "Delsumma",
+    "shipping": "Frakt beräknas i kassan",
+    "vat": "Moms 25 % ingår",
+    "checkout": "Till kassan",
+    "remove": "Ta bort",
+    "items": "artiklar",
+    "item": "artikel",
+    "loading": "Skapar betalning…",
+    "error": "Något gick fel. Försök igen."
+  },
+  "checkout": {
+    "processing": "Behandlar betalning…"
+  },
+  "success": {
+    "heading": "Tack för din beställning!",
+    "subheading": "Din betalning är bekräftad.",
+    "order_summary": "Ordersammanfattning",
+    "order_number": "Ordernummer",
+    "email_sent": "En bekräftelse skickas till {email}.",
+    "continue": "Fortsätt handla",
+    "items": "Produkter",
+    "subtotal": "Delsumma",
+    "shipping": "Frakt",
+    "total": "Totalt",
+    "payment_method": "Betalmetod"
+  },
+  "about": {
+    "title": "Om oss",
+    "heading": "Om 3D Hem",
+    "text": "Vi är ett litet 3D-printföretag med stort hjärta. Varje produkt tillverkas på beställning i Sverige med hög precision och noggrant utvalda material som PLA, PETG och Resin.\n\nVår passion är att göra unika, personliga och funktionella föremål tillgängliga för alla – från anime-fans till hemmakontorets organisatörer.\n\nHar du en idé på en produkt du vill ha tryckt? Hör av dig via kontaktsidan!"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "heading": "Kontakta oss",
+    "email_label": "E-post",
+    "message_label": "Meddelande",
+    "send": "Skicka",
+    "success": "Tack! Vi återkommer inom 1–2 vardagar.",
+    "placeholder_email": "din@epost.se",
+    "placeholder_message": "Skriv ditt meddelande här…"
+  },
+  "footer": {
+    "privacy": "Integritetspolicy",
+    "terms": "Köpvillkor",
+    "about": "Om oss",
+    "contact": "Kontakt",
+    "copyright": "© {year} 3D Hem. Alla rättigheter förbehållna.",
+    "vat_info": "Moms 25 % ingår i alla priser."
+  },
+  "privacy": {
+    "title": "Integritetspolicy",
+    "heading": "Integritetspolicy"
+  },
+  "terms": {
+    "title": "Köpvillkor",
+    "heading": "Köpvillkor"
+  },
+  "cookie": {
+    "message": "Vi använder cookies för att din kundvagn och inloggning ska fungera. Inga spårningscookies används utan ditt samtycke.",
+    "accept": "Acceptera",
+    "reject": "Avvisa"
+  },
+  "errors": {
+    "not_found": "Sidan hittades inte",
+    "not_found_desc": "Den här sidan finns inte eller har tagits bort.",
+    "server_error": "Serverfel",
+    "server_error_desc": "Något gick fel på vår sida. Försök igen.",
+    "back_to_shop": "Tillbaka till butiken",
+    "out_of_stock": "Slut i lager",
+    "invalid_quantity": "Ogiltigt antal",
+    "checkout_failed": "Kunde inte skapa betalning. Försök igen."
+  },
+  "admin": {
+    "login": "Logga in"
+  },
+  "meta": {
+    "site_name": "3D Hem",
+    "default_title": "3D Hem – Unika 3D-utskrifter från Sverige",
+    "default_description": "Handgjorda 3D-utskrifter i PLA, PETG och Resin. Figurer, lampor och funktionella föremål tillverkade på beställning i Sverige."
+  }
+}
